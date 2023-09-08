@@ -90,10 +90,23 @@ Keep consistent of one of these
 
 ### Favorite Foods
 
-1. Fruits are really good for you. 
+1. Fruits are really good for you.  
    Get atleast 1-2 servings in per day.
 2. Veggies are great for vitamins and minerals.
 3. This list item contains a quote.
 
 
 > Here is a quote
+
+
+# Horizontal Rule Example
+
+Paragraph 1
+
+---
+
+Paragraph 2
+
+# Links Examples
+
+Oe of the most popular search engine is [Google](http://google.com "Google Search")
