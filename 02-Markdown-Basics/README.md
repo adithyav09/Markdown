@@ -122,3 +122,12 @@ A distant second is Microsoft's [Bing][msb]
 ![Demo](http://placehold.it/350x150)
 
 Placehold.it is a nice place to get some placeholder graphics.
+
+
+[Demo300]: (http://placehold.it/300 "300-pixel squared placeholder"
+
+# Inline HTML Example
+
+Sometimes you need to add some inline HTML
+
+### Here is the code for a definition list in HTML
