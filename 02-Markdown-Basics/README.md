@@ -51,3 +51,11 @@ default.
 Just like everyone else
 
 ##### _Margaret Mead_
+
+# Code Examples
+This `rm` command is used to delete files in Bash. 
+For example:
+
+    cd ~
+    ls -l
+    rm myfile.txt
