@@ -116,3 +116,9 @@ A distant second is Microsoft's [Bing][msb]
 [msb]: http://bing.com "Bing Search Engine"
 
 # Images Example
+
+
+### Inline Images:
+![Demo](http://placehold.it/350x150)
+
+Placehold.it is a nice place to get some placeholder graphics.
