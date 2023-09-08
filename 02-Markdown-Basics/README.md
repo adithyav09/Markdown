@@ -41,5 +41,5 @@ Next I will write __very__ strong or **bold** text, also in two
 different ways
 
 This example will contain an _intra_ word emphasis. This is a variable
-name var_example_int but Markdown will render emphaisis by 
+name var\_example\_int but Markdown will render emphaisis by 
 default.
