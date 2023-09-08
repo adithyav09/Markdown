@@ -43,3 +43,9 @@ different ways
 This example will contain an _intra_ word emphasis. This is a variable
 name var\_example\_int but Markdown will render emphaisis by 
 default.
+
+- Use asterik instead of underscore for emphasis
+
+# Quote Example
+> Always remember tha you are absolutely unique. Just like
+everyone else
