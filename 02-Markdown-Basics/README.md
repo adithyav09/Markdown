@@ -109,4 +109,10 @@ Paragraph 2
 
 # Links Examples
 
-Oe of the most popular search engine is [Google](http://google.com "Google Search")
+One of the most popular search engine is [Google](http://google.com "Google Search")
+
+A distant second is Microsoft's [Bing][msb]
+
+[msb]: http://bing.com "Bing Search Engine"
+
+# Images Example
