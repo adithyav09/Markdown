@@ -47,5 +47,7 @@ default.
 - Use asterik instead of underscore for emphasis
 
 # Quote Example
-> Always remember tha you are absolutely unique. Just like
-everyone else
+> Always remember that you are absolutely unique.  
+Just like everyone else
+
+##### _Margaret Mead_
