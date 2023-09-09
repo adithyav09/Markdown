@@ -7,9 +7,10 @@
 # Wordpress Introduction
 
 - Welcome
-- About the Series/course
-- Overview of Wordpress ? History
+- About the Series / course
+- Overview of Wordpress / History
     * Open Source
+
 ## Introduction
 
 - How Wordpress Works
@@ -31,4 +32,4 @@
 
 ## Conculision
 * Review
-* More REsources
+* More Resources
