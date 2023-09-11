@@ -9,15 +9,3 @@ This is above the table.
 | R 3, C 1   |  R 3, C 2  | R 3, C 3   |
 
 This is below the table
-
-# Fenced Code Blocks with Syntax Highlighting
-
-This is code below.
-
-```ruby
-#!/usr/bin/env/ ruby
-print "Hello Ruby!\n"
-print "goodbye Ruby!\n"
-```
-
-This code is above.
